@@ -1,0 +1,8 @@
+#All Region Names Below Will Allow Players To Not Be Seen
+#Debugging will result in the following output: [InvisRegions] {player} has entered/left a invis region.
+
+InvisRegions:
+  debug: false
+  regions:
+    - example
+    - regionNameHere

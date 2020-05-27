@@ -1,0 +1,5 @@
+name: InvisRegions
+version: ${project.version}
+main: pw.saber.regions.InvisRegions
+author: Driftay
+softdepend: [WorldGuard]
